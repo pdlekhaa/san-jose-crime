@@ -1,3 +1,3 @@
-Final Project analysis of San Jose Arrests
+This project identifies and analyzes situations surrounding false arrests in San Jose for STATS 506 (Computational Methods and Tools in Statistics) final project. The project broadly identifies which arrests (Arrents_All.csv) do not have corresponding charges (Charges_All.csv), and examines the corresponding "incident" (Incidents_All.csv) or reason for police involvement. The project also examines whether there is a significant difference between amount of regular arrests vs. false arrests among racial and gender groups. 
 
-
+Data Source (Kaggle): https://www.kaggle.com/datasets/jsherman256/sjpd-incidents-arrests-charges/data
